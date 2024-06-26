@@ -78,10 +78,7 @@ Desenvolvido por [Gabriel Café](https://github.com/Gabrielcafens)
 Agradecemos a todos que contribuíram direta ou indiretamente para este projeto.
 
 ---
-
-                          <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <pre>
-                          ___
+                         ___
                       .-'   `'.
                      /         \
                      |         ;
