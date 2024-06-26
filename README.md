@@ -79,6 +79,8 @@ Agradecemos a todos que contribuíram direta ou indiretamente para este projeto.
 
 ---
 
+                          <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <pre>
                           ___
                       .-'   `'.
                      /         \
@@ -102,4 +104,6 @@ Agradecemos a todos que contribuíram direta ou indiretamente para este projeto.
 .........           .........         .........           
 |       |]         |       |]         |       |]                
 \       /           \       /         \       /              
- `-----'             `-----'           `-----'  
+ `-----'             `-----'           `-----'   
+  </pre>
+</div>
